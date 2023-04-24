@@ -37,10 +37,12 @@ class GitAdmin(admin.ModelAdmin):
 Include your code here
 
 ## OUTPUT
-![image](https://user-images.githubusercontent.com/121215938/233890665-471a6613-a5ac-48c5-b411-0efe8adf8b44.png)
+![Screenshot 2023-04-24 083242](https://user-images.githubusercontent.com/121215938/233891019-d32a67de-0852-463c-b404-5fd77ece8fc2.jpg)
+
 
 
 Include the screenshot of your admin page.
 
 
 ## RESULT
+Thus a Danjo application is successfully developed to store and retrive data from a database using object realtion mapping
