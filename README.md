@@ -32,7 +32,7 @@ class GitDatabase(models.Model):
     email = models.EmailField(max_length=50,unique=True)
 class GitAdmin(admin.ModelAdmin):
     list_display = ('username_primary_key', 'password', 'firstname', 'lastname','profile_photo','email')
-    ```
+ ```
    
 Include your code here
 
